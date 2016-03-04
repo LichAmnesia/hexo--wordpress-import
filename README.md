@@ -1,4 +1,4 @@
-# hexo--wordpress-import
+# hexo-wordpress-import
 hexo解析WordPress导入的md文件助手
 
 - ospath #设置hexo的WordPress插件生成md文件目录
